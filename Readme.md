@@ -14,13 +14,13 @@ ssh <username>@<server-address>
 Use `scp` to securely transfer the project files (e.g., `Sindhu_Pasupuleti.zip`) to the server:
 
 ```bash
-scp /path/to/Sindhu_Pasupuleti.zip <username>@<server-address>:/path/to/destination
+scp /path/to/----.zip <username>@<server-address>:/path/to/destination
 ```
 
 Once transferred, unzip the file:
 
 ```bash
-unzip Sindhu_Pasupuleti.zip
+unzip ---.zip
 ```
 
 The directory structure will look like this:
