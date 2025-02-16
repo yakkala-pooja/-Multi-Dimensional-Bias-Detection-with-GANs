@@ -11,7 +11,7 @@ ssh <username>@<server-address>
 
 ### **1.2 Transfer Files to the Server**
 
-Use `scp` to securely transfer the project files (e.g., `Sindhu_Pasupuleti.zip`) to the server:
+Use `scp` to securely transfer the project files (e.g., `----.zip`) to the server:
 
 ```bash
 scp /path/to/----.zip <username>@<server-address>:/path/to/destination
